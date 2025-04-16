@@ -1,6 +1,6 @@
 ### Hey there! 👋 I'm Hafiz Masoud Yusuf (but you can call me Haf)
 
-🔧 Currently working as an **IT Officer**  
+🔧 Currently working on a extension and a psychoanalyser 
 
 💻 Passionate **Web Developer** (PHP | Flask | SQL | HTML/CSS | JS)  
 
@@ -34,6 +34,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hafdont&theme=maroongold&no-frame=false&no-bg=false&margin-w=4)
+
+## 👀 Profile Visits  
+[![](https://visitcount.itsvg.in/api?id=hafdont&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
