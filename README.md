@@ -38,6 +38,13 @@
 ## 👀 Profile Visits  
 [![](https://visitcount.itsvg.in/api?id=hafdont&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
+![Hafdont's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafdont&show_icons=true)
+
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=hafdont&color=blue)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
